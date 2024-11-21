@@ -57,9 +57,9 @@ Zhihang Ren, **Yunqi Li**, Xinyu Li, Xinrong Xie, Erik P Duhaime, Kathy Fang, Ta
 
 <!-- research -->
 # 🧠 Research Experience
-- Advised by Prof. Jianbo Shi at GRASP Laboratory, University of Pennsylvania 2024.05 - present.
-- Collaborate with Brent Yi, advised by Prof. Yi Ma, at Berkeley Artificial Intelligence Research (BAIR) 2024.03 - present.
-- Collaborate with Zhihang Ren, advised by Prof. David Whitney and Prof. Stella Yu, at University of California, Berkeley 2024.01 - 2024.03.
+- Advised by [Prof. Jianbo Shi](https://www.cis.upenn.edu/~jshi/) at University of Pennsylvania 2024.06 - present.
+- Collaborate with [Brent Yi](https://scholar.google.com/citations?user=Ecy6lXwAAAAJ&hl=en), [Michael Psenka](https://www.michaelpsenka.io/) advised by [Prof. Yi Ma](https://www.cs.hku.hk/index.php/people/academic-staff/mayi), at Berkeley Artificial Intelligence Research (BAIR) 2024.03 - present.
+- Collaborate with [Zhihang Ren](https://albuspeter.github.io/), advised by [Prof. David Whitney](https://whitneylab.berkeley.edu/people/dave.html) and [Prof. Stella Yu](https://web.eecs.umich.edu/~stellayu/), at University of California, Berkeley 2024.01 - 2024.03.
 
 # 💻 Internships
 - *2023.03 - 2023.06*, [Deemos Technologies Inc](https://www.deemos.com/), China.
