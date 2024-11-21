@@ -9,7 +9,7 @@
 title                    : "Annie Li(李蕴琪)"
 description              : 
 repository               : "annie-liyunqi/annie-liyunqi.github.io"
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
