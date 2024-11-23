@@ -19,7 +19,7 @@ redirect_from:
 
 Hello! I am an undergraduate student at Shanghaitech University, majoring in Computer Science.
 
-My primary areas of interest in research are computer vision and machine learning. After seeing lots of unstable and uncontrollable models, I decide to focus on robust intelligent systems.
+My primary areas of interest in research are computer vision, representation learning and machine learning. After seeing lots of unstable and uncontrollable models, I decide to focus on robust intelligent systems.
 
 
 <!-- # 🔥 News
