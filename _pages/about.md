@@ -40,7 +40,7 @@ Zhihang Ren, **Yunqi Li**, Xinyu Li, Xinrong Xie, Erik P Duhaime, Kathy Fang, Ta
 </div> -->
 <!-- </div> -->
 
-- [SkinCON: Towards consensus for the uncertainty of skin cancer sub-typing through distribution regularized adaptive predictive sets (DRAPS)](https://skincon.github.io/), Zhihang Ren, **Yunqi Li**, Xinyu Li, Xinrong Xie, Erik P Duhaime, Kathy Fang, Tapabrata Chakraborti, Yunhui Guo, Stella X Yu, David Whitney, early accepted(top 11%) by **MICCAI 2024**.
+- [SkinCON: Towards consensus for the uncertainty of skin cancer sub-typing through distribution regularized adaptive predictive sets (DRAPS)](https://skincon.github.io/), Zhihang Ren, **Yunqi Li\***, Xinyu Li\*, Xinrong Xie, Erik P Duhaime, Kathy Fang, Tapabrata Chakraborti, Yunhui Guo, Stella X Yu, David Whitney, early accepted(top 11%) by **MICCAI 2024**.
 - [Estimating Body and Hand Motion in an Ego‑sensed World](https://egoallo.github.io/), Brent Yi, Vickie Ye, Maya Zheng, **Yunqi Li**, Lea Müller, Georgios Pavlakos, Yi Ma, Jitendra Malik, Angjoo Kanazawa
 
 <!-- # 🎖 Honors and Awards
