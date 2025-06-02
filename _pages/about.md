@@ -28,19 +28,20 @@ Hello! I am an undergraduate student at ShanghaiTech University majoring in Comp
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/reasongen-r1_teaser.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [ReasonGen-R1: Cot for Autoregressive Image generation models through SFT and RL](https://reasongen-r1.github.io/), Yu Zhang\*, **Yunqi Li\***, Yifan Yang, Rui Wang, Yuqing Yang, Qi Dai, Jianmin Bao, Dongdong Chen, Chong Luo, Lili Qiu.
-
+</div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><video src='images/egoallo_teaser.mp4' autoplay muted loop controls width="100%">
       </video></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Estimating Body and Hand Motion in an Ego‑sensed World](https://egoallo.github.io/), Brent Yi, Vickie Ye, Maya Zheng, **Yunqi Li**, Lea Müller, Georgios Pavlakos, Yi Ma, Jitendra Malik, Angjoo Kanazawa
-
+</div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2024</div><img src='images/skincon_teaser.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SkinCON: Towards consensus for the uncertainty of skin cancer sub-typing through distribution regularized adaptive predictive sets (DRAPS)](https://skincon.github.io/), Zhihang Ren, **Yunqi Li\***, Xinyu Li\*, Xinrong Xie, Erik P Duhaime, Kathy Fang, Tapabrata Chakraborti, Yunhui Guo, Stella X Yu, David Whitney.
+</div></div>
 
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=raTNMIwAAAAJ&citation_for_view=raTNMIwAAAAJ:MXK_kJrjxJIC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
